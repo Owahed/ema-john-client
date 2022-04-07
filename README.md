@@ -1,7 +1,8 @@
 ### Ema-John E-Commerce
 
 A single page E-commerce website where user can explore new products and then he can buy something using credits card.
- [Live Link](https://roky-owahed.web.app/).
+
+ # [Live Link](https://roky-owahed.web.app/).
 
 
 ## Features
@@ -11,14 +12,14 @@ Product inventory where seller can add their product for showing it up and sell.
 Product Review Page where user can review their product and can show more details about products.
 Users can purchase their desired products and pay online using credit card.
 ## Front-end Technology :
-React.js
-Bootstrap4
+React.js,
+Bootstrap4,
 CSS3
 ## Back-end Technology :
-Node.js
-Express.js
-MongoDB
-Firebase Authentication
+Node.js,
+Express.js,
+MongoDB,
+Firebase Authentication,
 Stripe.js
 
-[Back-end Repository](https://github.com/Owahed/ema-john-server-phero).
+# [Back-end Repository](https://github.com/Owahed/ema-john-server-phero).
