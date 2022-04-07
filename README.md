@@ -2,7 +2,7 @@
 
 A single page E-commerce website where user can explore new products and then he can buy something using credits card.
 
- # [Live Link](https://roky-owahed.web.app/).
+ ### [Live Link](https://roky-owahed.web.app/).
 
 
 ## Features
@@ -22,4 +22,4 @@ MongoDB,
 Firebase Authentication,
 Stripe.js
 
-# [Back-end Repository](https://github.com/Owahed/ema-john-server-phero).
+### [Back-end Repository](https://github.com/Owahed/ema-john-server-phero).
