@@ -1,12 +1,24 @@
-### Ema John
+### Ema-John E-Commerce
+
+A single page E-commerce website where user can explore new products and then he can buy something using credits card.
+ [Live Link](https://roky-owahed.web.app/).
 
 
-May, 2021 - May, 2021
-• This is a complete e-commerce web sit. Users can buy any products.
-• Implemented google authentication. The user must be logged in to
-email or google service and Used stripe for payment solution.
-Technology: Axios, Rest API, React.js, Node.js, Express.js, MongoDB,
-Firebase, Heroku, React-Bootstrap.
+## Features
+A full-stack E-Commerce website where you can check your favorite products and their details. (Dummy Products)
+Google sign in, FB sign in, Email & Password Sign in/Register. (all sign in method)
+Product inventory where seller can add their product for showing it up and sell.
+Product Review Page where user can review their product and can show more details about products.
+Users can purchase their desired products and pay online using credit card.
+## Front-end Technology :
+React.js
+Bootstrap4
+CSS3
+## Back-end Technology :
+Node.js
+Express.js
+MongoDB
+Firebase Authentication
+Stripe.js
 
-
-## Live Site = https://roky-owahed.web.app/
+[Back-end Repository](https://github.com/Owahed/ema-john-server-phero).
